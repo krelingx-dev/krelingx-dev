@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 📄 Certifications
 
-- **[Meu Certificado](https://github.com/krelingx-dev)**
+- **[Linux Fundamentals](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=1ec28c7785b6547898c8869a25ff461d&action=view)**
 
 <hr/>
 
