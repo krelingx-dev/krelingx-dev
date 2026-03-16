@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Cybersecurity Projects
 
 - **[Active Directory Home Lab](https://github.com/krelingx-dev)**
-- **[Outro Lab](https://github.com/krelingx-dev)**
+- **[Pentesting Homelab](https://github.com/krelingx-dev/homelab)**
 
 ## 📄 Certifications
 
