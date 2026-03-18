@@ -8,6 +8,7 @@ All tests were performed in a controlled environment with authorization.
 
 - **[Active Directory Home Lab](https://github.com/krelingx-dev)**
 - **[Pentesting Homelab](https://github.com/krelingx-dev/homelab)**
+- **[Reverse Powershell Lab](https://github.com/krelingx-dev/Reverse-Shell)**
 
 ## 📄 Certifications
 
